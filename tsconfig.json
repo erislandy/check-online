@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+      "module": "commonjs",     
+      "target": "es2016", 
+      "declaration": true,                              /* Generate .d.ts files from TypeScript and JavaScript files in your project. */
+      "declarationMap": true,    
+      "outDir": "./dist",
+      "esModuleInterop": true,
+      "strict": true,
+      "forceConsistentCasingInFileNames": true,   
+      "skipLibCheck": true      
+    }
+  }
